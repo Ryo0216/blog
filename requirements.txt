@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 babel==2.16.0
 beautifulsoup4==4.12.3
 blinker==1.9.0
@@ -64,3 +65,6 @@ webencodings==0.5.1
 Werkzeug==3.0.6
 yfinance==0.2.50
 zipp==3.21.0
+=======
+
+>>>>>>> 830bbe50ff77aa530e31b662ce77bb22d26df22d
